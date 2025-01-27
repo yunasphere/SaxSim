@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SaxSim",
+			"Path": "../Source/SaxSim.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SaxSimEditor",
+			"Path": "../Source/SaxSimEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

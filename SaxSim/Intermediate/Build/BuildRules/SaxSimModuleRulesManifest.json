@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/oscar/Documents/GitHub/SaxSim/SaxSim/Source/SaxSim/SaxSim.Build.cs",
+		"/Users/oscar/Documents/GitHub/SaxSim/SaxSim/Source/SaxSim.Target.cs",
+		"/Users/oscar/Documents/GitHub/SaxSim/SaxSim/Source/SaxSimEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.1"
+}
