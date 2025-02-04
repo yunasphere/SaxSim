@@ -4157,4 +4157,5 @@
   /Users/oscar/Documents/GitHub/SaxSim/SaxSim/Source/SaxSim/SaxophoneInputHandler.cpp \
   /Users/oscar/Documents/GitHub/SaxSim/SaxSim/Intermediate/Build/Mac/arm64/UnrealEditor/Development/SaxSim/Definitions.SaxSim.h \
   /Users/oscar/Documents/GitHub/SaxSim/SaxSim/Source/SaxSim/SaxophoneInputHandler.h \
-  Runtime/Core/Public/CoreMinimal.h
+  Runtime/Core/Public/CoreMinimal.h \
+  Runtime/Engine/Classes/Engine/Blueprint.h
